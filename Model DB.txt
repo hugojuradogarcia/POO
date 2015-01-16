@@ -1,0 +1,10 @@
+Model DB
+
+usuarios 
+	id
+	nombre
+	apellido
+	email
+	fecha registro
+	ultima visita
+	
